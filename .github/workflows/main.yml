@@ -13,7 +13,9 @@ jobs:
       - uses: kumackey/profile-updater@v1
         with:
           zenn_user_id: s_ryuuki
+          zenn_max_articles: 10
           qiita_user_id: s_ryuuki
+          qiita_max_articles: 10
       - name: Commit and push
         run: |
           git config --local user.name "GitHub Actions"
