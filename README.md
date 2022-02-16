@@ -5,6 +5,11 @@
 - Feb 14 [Windows上のVS CodeでRemote-WSLを使い。WSL2のUbuntu 20.04へアクセスする。](https://zenn.dev/s_ryuuki/articles/4b9631674adea4)
 - Feb 10 [WSL2のUbuntu 20.04をcloud-initで構築してLocalStackを使ってみる](https://zenn.dev/s_ryuuki/articles/46c6d9d8d34404)
 - Feb 8 [Mac向けMultipassのUbuntu 20.04でLocalStackを使ってみる](https://zenn.dev/s_ryuuki/articles/65f0b1c39cafbe)
+- Dec 31 [Amazonサーバーレス関連覚書](https://zenn.dev/s_ryuuki/articles/b4729899ccd965)
+- Dec 22 [LocalStack上にAWS SAMでAPI Gateway、Lambda、DynamoDBを構築してみる](https://zenn.dev/s_ryuuki/articles/7452a7b484f064)
+- Dec 17 [LocalStack上にServerlessでAPI Gateway、Lambda、DynamoDBを構築してみる](https://zenn.dev/s_ryuuki/articles/5bbbeea5a88c0c)
+- Dec 16 [LocalStack上にAPI Gateway、Lambda、DynamoDB環境を構築してみる](https://zenn.dev/s_ryuuki/articles/8cf4855713c092)
+- Dec 14 [WSL2コマンドメモ](https://zenn.dev/s_ryuuki/articles/41514a18228c02)
 <!-- profile updater end: zenn -->
 
 # Qiita Articles
@@ -14,4 +19,5 @@
 - Apr 20 [Unityのゲーム向けクライアント・サーバ・ネットワーク関連覚書](https://qiita.com/s_ryuuki/items/3663cda16cdfa5f14ad7)
 - Apr 17 [UnityのTextMeshPro覚書](https://qiita.com/s_ryuuki/items/2fb6f4807b900acc82ed)
 - Apr 17 [Unityのモバイルゲーム向けセキュリティ関連覚書](https://qiita.com/s_ryuuki/items/04e136cf08328a835654)
+- Aug 6 [macOS Sierra + Python + Pygameでキー入力出来る環境を構築する](https://qiita.com/s_ryuuki/items/fc4e9d6e32f6a0f0bcff)
 <!-- profile updater end: qiita -->
