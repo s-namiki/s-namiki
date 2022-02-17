@@ -1,5 +1,6 @@
 # Zenn Articles
 <!-- profile updater begin: zenn -->
+- Feb 17 [Ubuntu 20.04にdotnet開発環境を構築する。アプリを作りコンテナー化する。](https://zenn.dev/s_ryuuki/articles/ef6e28822d81e4)
 - Feb 15 [Multipassコマンドメモ](https://zenn.dev/s_ryuuki/articles/db7eb23dde7084)
 - Feb 14 [Mac上のVS CodeでRemote-SSHを使い。MultipassのUbuntu 20.04へアクセスする。](https://zenn.dev/s_ryuuki/articles/66e2391c2d5f98)
 - Feb 14 [Windows上のVS CodeでRemote-WSLを使い。WSL2のUbuntu 20.04へアクセスする。](https://zenn.dev/s_ryuuki/articles/4b9631674adea4)
@@ -9,7 +10,6 @@
 - Dec 22 [LocalStack上にAWS SAMでAPI Gateway、Lambda、DynamoDBを構築してみる](https://zenn.dev/s_ryuuki/articles/7452a7b484f064)
 - Dec 17 [LocalStack上にServerlessでAPI Gateway、Lambda、DynamoDBを構築してみる](https://zenn.dev/s_ryuuki/articles/5bbbeea5a88c0c)
 - Dec 16 [LocalStack上にAPI Gateway、Lambda、DynamoDB環境を構築してみる](https://zenn.dev/s_ryuuki/articles/8cf4855713c092)
-- Dec 14 [WSL2コマンドメモ](https://zenn.dev/s_ryuuki/articles/41514a18228c02)
 <!-- profile updater end: zenn -->
 
 # Qiita Articles
