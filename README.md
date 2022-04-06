@@ -18,6 +18,4 @@
 - Apr 26 [Unityのモバイルゲーム向けクラッキングが行われるポイントを整理してみた](https://qiita.com/s_ryuuki/items/c6b63d108959582a2b2e)
 - Apr 20 [Unityのゲーム向けクライアント・サーバ・ネットワーク関連覚書](https://qiita.com/s_ryuuki/items/3663cda16cdfa5f14ad7)
 - Apr 17 [UnityのTextMeshPro覚書](https://qiita.com/s_ryuuki/items/2fb6f4807b900acc82ed)
-- Apr 17 [Unityのモバイルゲーム向けセキュリティ関連覚書](https://qiita.com/s_ryuuki/items/04e136cf08328a835654)
-- Aug 6 [macOS Sierra + Python + Pygameでキー入力出来る環境を構築する](https://qiita.com/s_ryuuki/items/fc4e9d6e32f6a0f0bcff)
 <!-- profile updater end: qiita -->
