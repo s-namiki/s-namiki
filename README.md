@@ -1,15 +1,15 @@
 # Zenn Articles
 <!-- profile updater begin: zenn -->
+- Jan 31 [Unityのモバイルゲーム向けセキュリティ関連覚書](https://zenn.dev/s_ryuuki/articles/e65af482a789cf)
+- Jan 31 [Unityのゲーム向けクライアント・サーバ・ネットワーク関連覚書](https://zenn.dev/s_ryuuki/articles/aff918cb710b0a)
+- Jan 31 [UnityのTextMeshPro覚書](https://zenn.dev/s_ryuuki/articles/882cc660fec9c2)
+- Jan 31 [Unityのモバイルゲーム向けクラッキングが行われるポイントを整理してみた](https://zenn.dev/s_ryuuki/articles/7fa34a75da220e)
 - Feb 17 [Ubuntu 20.04にdotnet開発環境を構築する。アプリを作りコンテナー化する。](https://zenn.dev/s_ryuuki/articles/ef6e28822d81e4)
 - Feb 15 [Multipassコマンドメモ](https://zenn.dev/s_ryuuki/articles/db7eb23dde7084)
 - Feb 14 [Mac上のVS CodeでRemote-SSHを使い。MultipassのUbuntu 20.04へアクセスする。](https://zenn.dev/s_ryuuki/articles/66e2391c2d5f98)
 - Feb 14 [Windows上のVS CodeでRemote-WSLを使い。WSL2のUbuntu 20.04へアクセスする。](https://zenn.dev/s_ryuuki/articles/4b9631674adea4)
 - Feb 10 [WSL2のUbuntu 20.04をcloud-initで構築してLocalStackを使ってみる](https://zenn.dev/s_ryuuki/articles/46c6d9d8d34404)
 - Feb 8 [Mac向けMultipassのUbuntu 20.04でLocalStackを使ってみる](https://zenn.dev/s_ryuuki/articles/65f0b1c39cafbe)
-- Dec 31 [Amazonサーバーレス関連覚書](https://zenn.dev/s_ryuuki/articles/b4729899ccd965)
-- Dec 22 [LocalStack上にAWS SAMでAPI Gateway、Lambda、DynamoDBを構築してみる](https://zenn.dev/s_ryuuki/articles/7452a7b484f064)
-- Dec 17 [LocalStack上にServerlessでAPI Gateway、Lambda、DynamoDBを構築してみる](https://zenn.dev/s_ryuuki/articles/5bbbeea5a88c0c)
-- Dec 16 [LocalStack上にAPI Gateway、Lambda、DynamoDB環境を構築してみる](https://zenn.dev/s_ryuuki/articles/8cf4855713c092)
 <!-- profile updater end: zenn -->
 
 # Qiita Articles
