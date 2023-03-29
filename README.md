@@ -1,6 +1,6 @@
 # Zenn Articles
 <!-- profile updater begin: zenn -->
-- Mar 28 [M1 MaxでChatRWKVを使いrwkv-4-pile-7bを動かしてみた](https://zenn.dev/s_ryuuki/articles/79ab112ba32c19)
+- Mar 28 [M1 Maxのローカル環境にChatGPTのようなチャット出来る仕組みを構築するChatRWKVを動かしてみた](https://zenn.dev/s_ryuuki/articles/79ab112ba32c19)
 - Jan 31 [Unityのモバイルゲーム向けセキュリティ関連覚書](https://zenn.dev/s_ryuuki/articles/e65af482a789cf)
 - Jan 31 [Unityのゲーム向けクライアント・サーバ・ネットワーク関連覚書](https://zenn.dev/s_ryuuki/articles/aff918cb710b0a)
 - Jan 31 [UnityのTextMeshPro覚書](https://zenn.dev/s_ryuuki/articles/882cc660fec9c2)
