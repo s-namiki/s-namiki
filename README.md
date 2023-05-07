@@ -17,7 +17,7 @@
 - May 15, **2 LGTM** [Visual Studio Codeでdotnet 3.x系のプロジェクトを開くとエラーCS0246やCS0518が出る問題の対処](https://qiita.com/s_ryuuki/items/51e11ca6259814275139)
 - Apr 26, **19 LGTM** [Unityのモバイルゲーム向けクラッキングが行われるポイントを整理してみた](https://qiita.com/s_ryuuki/items/c6b63d108959582a2b2e)
 - Apr 20, **41 LGTM** [Unityのゲーム向けクライアント・サーバ・ネットワーク関連覚書](https://qiita.com/s_ryuuki/items/3663cda16cdfa5f14ad7)
-- Apr 17, **23 LGTM** [UnityのTextMeshPro覚書](https://qiita.com/s_ryuuki/items/2fb6f4807b900acc82ed)
+- Apr 17, **24 LGTM** [UnityのTextMeshPro覚書](https://qiita.com/s_ryuuki/items/2fb6f4807b900acc82ed)
 - Apr 17, **105 LGTM** [Unityのモバイルゲーム向けセキュリティ関連覚書](https://qiita.com/s_ryuuki/items/04e136cf08328a835654)
 - Aug 6, **3 LGTM** [macOS Sierra + Python + Pygameでキー入力出来る環境を構築する](https://qiita.com/s_ryuuki/items/fc4e9d6e32f6a0f0bcff)
 <!-- profile updater end: qiita -->
